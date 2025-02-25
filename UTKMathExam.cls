@@ -1,6 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{UTKMathExam}[2025/02/21 This class provides style and format to create exams for the math 123 course and possibly others.]
 
+\PassOptionsToClass{fleqn,twoside}{article}
 \LoadClass[fleqn,twoside]{article}
 
 %-------------- Load Packages -----------------------
