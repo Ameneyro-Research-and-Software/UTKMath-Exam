@@ -45,8 +45,8 @@
 
 %--------------- Cover Page ------------------
 \fancypagestyle{cover-page-style}{
-  \fancyhead[L]{\textsc{Name:} \underline{\hspace{2.2in}}}
-  \fancyhead[C]{\hfil\textsc{Email:} \underline{\hspace{1.5in}}@vols.utk.edu}
+  \fancyhead[L]{Name: \underline{\hspace{2.2in}}}
+  \fancyhead[C]{\hfil~NetID: \underline{\hspace{1.5in}}}
   \fancyhead[R]{Section: \underline{\hspace{.5in}}}
   \renewcommand{\headrulewidth}{0pt} % removes horizontal header line
 }
