@@ -28,9 +28,8 @@
   inner = 0.75in,
   outer = 0.5in,
   top = 1.0in,
+  headheight = 15pt,
   marginparwidth = 0.75in,
-  textwidth = 7.25in,
-  textheight = 9.2in
 }
 
 \fancypagestyle{exam-page-style}{
