@@ -6,6 +6,7 @@
 
 %-------------- Load Packages -----------------------
 \RequirePackage{geometry}
+\RequirePackage{microtype}
 \RequirePackage{fancyhdr}
 
 %--------------- Exam Information ------------------
